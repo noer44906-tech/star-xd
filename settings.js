@@ -3,7 +3,7 @@
 export default {
   // PUT YOUR SESSION ID BELOW (Required)
   // Get from: https://star.malvintech.sbs/
-  SESSION_ID: "",
+  SESSION_ID: "king~Ze2rrFvmFpw",
 
   // PUT YOUR REMOVE BACKGROUND KEY (Optional)
   // Get from: https://remove.bg/api
@@ -11,7 +11,7 @@ export default {
 
   // If you don't have session id, use pairing code
   // Put your WhatsApp number here (without +)
-  PAIRING_NUMBER: "",
+  PAIRING_NUMBER: "60166696987",
   
   SESSION_SITE: "https://pair.malvintech.sbs",
 
@@ -45,15 +45,15 @@ export default {
   BOT_NAME: "sᴛᴀʀ-xᴅ",
 
   // Add Owner WhatsApp Number (without +)
-  OWNER_NUMBER: "263725787000",
+  OWNER_NUMBER: "60166696987",
 
   // Command Mode: "public" or "private"
   // private = only owner can use commands
   COMMAND_MODE: "private",
 
   // Owner Name
-  BOT_OWNER: "ᴍʀ xᴅᴋɪɴɢ",
+  BOT_OWNER: "Zandev",
 
   // Timezone
-  TIMEZONE: "Africa/Harare"
+  TIMEZONE: "Indo/Indo"
 };
